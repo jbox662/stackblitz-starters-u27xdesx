@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "serve": "deno run --allow-net --allow-env index.ts"
+  },
+  "imports": {
+    "resend": "https://esm.sh/resend@3.2.0"
+  }
+}
